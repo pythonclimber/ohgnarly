@@ -12,5 +12,5 @@
     "skipLibCheck": true
   },
   "include": ["./**/*"],
-  "exclude": ["node_modules", "__tests__", "clientApp2"]
+  "exclude": ["node_modules", "__tests__", "clientApp2", "reactapp"]
 }
